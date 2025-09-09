@@ -29,7 +29,7 @@ ds_<yourname>/<br>
 ---
 
 ## How to Run
-1. Open `DSTask.ipynb` in **Google Colab** [Click here] (https://colab.research.google.com/drive/10rjFij8IXhAZi8Nt766s3NMxGAq53fVB?usp=sharing) to view the colab notebook itself.  
+1. Open `DSTask.ipynb` in **Google Colab** [Click here](https://colab.research.google.com/drive/10rjFij8IXhAZi8Nt766s3NMxGAq53fVB?usp=sharing) to view the colab notebook itself.  
 2. Make sure datasets are in `/csv_files/`.  
 3. Run all cells to reproduce outputs in `/outputs/`.  
 4. Final insights are compiled in `ds_report.pdf`.  
