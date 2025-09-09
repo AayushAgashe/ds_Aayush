@@ -8,18 +8,13 @@ Using Bitcoin sentiment data and Hyperliquid trader activity, the goal is to ide
 ---
 
 ##  Directory Structure
-ds_<yourname>/
-├── notebook_1.ipynb # Main analysis notebook (Google Colab)
-├── csv_files/ # Raw & processed CSV files
-│ └── merged_trader_sentiment.csv
-├── outputs/ # Visual outputs (plots, charts)
-│ ├── final_profit_vs_sentiment.png
-│ ├── final_volume_vs_sentiment.png
-│ ├── final_active_accounts.png
-│ ├── final_pnl_boxplot.png
-│ └── final_correlation_heatmap.png
-├── ds_report.pdf # Final summarized report
-└── README.md # Project description & instructions
+ds_<yourname>/<br>
+├── notebook_1.ipynb # Main analysis notebook (Google Colab)<br>
+├── csv_files/ # Raw & processed CSV files<br>
+│ └── merged_trader_sentiment.csv<br>
+├── outputs/ # Visual outputs (plots, charts)<br>
+├── ds_report.pdf # Final summarized report<br>
+└── README.md # Project description & instructions<br>
 
 
 ---
